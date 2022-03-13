@@ -104,6 +104,9 @@ Now for cleaning the unused code in your project follow the below procedure.
 
 1. Now you can delete all other pages except `_app.js`, `_documents.js` and `_error.js`. That mean in your `/pages` folder you will have four files `index.js`, `_app.js`, `_documents.js` and `error.js`
 2. From `/landing/containers/` folder you can delete all other folder except `App` and `Error`
+
+## I stopped here.
+
 3. From `/common/assets/image/` folder you can delete all other folder except `app`. Do not delete any files from there like `404.svg`, `error.svg` etc.
 4. From `/common/data/` folder you can delete all other folder except `App`.
 5. From `/common/theme/` folder you can delete all other folder except `app`. Do not delete the `index.js` file.
